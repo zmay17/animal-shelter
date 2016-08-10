@@ -1,0 +1,48 @@
+
+
+
+.body {
+	font-size: 14;
+	font-style: italic;
+}
+
+.intro {
+	font-size: 14;
+
+}
+
+.column {
+	width: 300px;
+	float: left;
+}
+
+img {
+	float: right;
+	padding-right: 200px;
+	padding-top: 50px;
+
+}
+
+.sidebar {
+	width: 30%;
+	height: 20%;
+	background-color: orange;
+	position: absolute;
+	bottom:10px;
+	right:35%;
+	border: 2px solid black;
+	padding-bottom: 20px;
+}
+
+.intro h1 {
+	text-align: center;
+	color: blue;
+	border: 5px solid black;
+	padding: 10px;
+
+}
+
+.bgcolor {
+	background-color: green;
+
+}
